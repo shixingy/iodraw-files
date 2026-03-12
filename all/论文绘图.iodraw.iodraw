@@ -372,6 +372,9 @@
         <mxCell id="c5HaNCwf08vqqvqho3q7-113" value="Block (0,0)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=25;align=center;verticalAlign=middle;overflow=visible;fontColor=#2d1101;fontFamily=Arial Narrow;" vertex="1" parent="1">
           <mxGeometry x="614" y="978.5" width="103" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="c5HaNCwf08vqqvqho3q7-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c5HaNCwf08vqqvqho3q7-114" target="c5HaNCwf08vqqvqho3q7-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-114" value="Block (1,0)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=25;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d1101;fontFamily=Arial Narrow;" vertex="1" parent="1">
           <mxGeometry x="744.75" y="978.5" width="103" height="26" as="geometry" />
         </mxCell>
@@ -452,9 +455,6 @@
         </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-140" value="Cores" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#091901;fontFamily=Arial Narrow;" vertex="1" parent="1">
           <mxGeometry x="1280" y="1078.25" width="55" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="c5HaNCwf08vqqvqho3q7-141" value="CPU" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=21;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#090909;fontFamily=Arial Narrow;" vertex="1" parent="1">
-          <mxGeometry x="253" y="760" width="45" height="22" as="geometry" />
         </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-142" value="PCle字" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#151911;fontFamily=Meiryo;" vertex="1" parent="1">
           <mxGeometry x="817" y="1374.25" width="52.01" height="19" as="geometry" />
