@@ -312,9 +312,6 @@
         <mxCell id="c5HaNCwf08vqqvqho3q7-93" value="Streaming Multiprocessors (SM)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=24;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#111111;fontFamily=Arial Narrow;" vertex="1" parent="1">
           <mxGeometry x="1090" y="978.25" width="282" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="c5HaNCwf08vqqvqho3q7-94" value="\(\mathsf{D e v i c e} \left( \mathsf{G P U} \right)\)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=20;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#000000;fontFamily=Latin Modern Math;" vertex="1" parent="1">
-          <mxGeometry x="908" y="886" width="178" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-95" value="(Host Memory / DRAM)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=24;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#091525;fontFamily=Meiryo;" vertex="1" parent="1">
           <mxGeometry x="76" y="1413" width="217" height="25" as="geometry" />
         </mxCell>
@@ -372,14 +369,11 @@
         <mxCell id="c5HaNCwf08vqqvqho3q7-113" value="Block (0,0)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=25;align=center;verticalAlign=middle;overflow=visible;fontColor=#2d1101;fontFamily=Arial Narrow;" vertex="1" parent="1">
           <mxGeometry x="614" y="978.5" width="103" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="c5HaNCwf08vqqvqho3q7-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c5HaNCwf08vqqvqho3q7-114" target="c5HaNCwf08vqqvqho3q7-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-114" value="Block (1,0)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=25;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d1101;fontFamily=Arial Narrow;" vertex="1" parent="1">
           <mxGeometry x="744.75" y="978.5" width="103" height="26" as="geometry" />
         </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-115" value="\(\boxed{\mathrm{B l o c k \left( 0 , 1 \right)}}\)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=15;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d1101;fontFamily=Latin Modern Math;" vertex="1" parent="1">
-          <mxGeometry x="876" y="978.5" width="102" height="26" as="geometry" />
+          <mxGeometry x="974" y="710" width="102" height="26" as="geometry" />
         </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-116" value="Grid (网格)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=25;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#050915;fontFamily=Meiryo;" vertex="1" parent="1">
           <mxGeometry x="603.75" y="938.24" width="101" height="26.02" as="geometry" />
