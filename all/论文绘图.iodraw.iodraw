@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c5HaNCwf08vqqvqho3q7-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a8d089;strokeColor=#030301;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="610" y="1016" width="380" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="HaqNAZ0E0oaA7pgw8uNl-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="580" y="870" width="870" height="700" as="geometry" />
         </mxCell>
@@ -144,14 +141,17 @@
         <mxCell id="c5HaNCwf08vqqvqho3q7-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fcfcfc;strokeColor=#070707;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1089" y="971" width="304" height="332" as="geometry" />
         </mxCell>
-        <mxCell id="c5HaNCwf08vqqvqho3q7-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fcbf05;strokeColor=#010103;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="612" y="1015" width="210" height="280" as="geometry" />
-        </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a2c6e5;strokeColor=#020203;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="80" y="1310" width="210" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="c5HaNCwf08vqqvqho3q7-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fcbf05;strokeColor=#010103;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="612" y="1015" width="210" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfdfd;strokeColor=#010101;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="73" y="970" width="225" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="c5HaNCwf08vqqvqho3q7-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a8d089;strokeColor=#030301;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="610" y="1016" width="380" height="140" as="geometry" />
         </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f08137;strokeColor=#020100;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="600" y="1318" width="209" height="197" as="geometry" />
