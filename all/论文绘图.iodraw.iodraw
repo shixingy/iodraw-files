@@ -893,7 +893,7 @@
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-185" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5f0e7;strokeColor=#86b3bd;strokeWidth=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="967" y="2417" width="318" height="294" as="geometry" />
         </mxCell>
-        <mxCell id="Y6EXcarqBShoE0fwJQ1S-186" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c3deec;strokeColor=#559ec9;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Y6EXcarqBShoE0fwJQ1S-186" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c3deec;strokeColor=#559ec9;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="290" y="2310" width="142" height="565" as="geometry" />
         </mxCell>
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-188" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62c4ae;strokeColor=#397f90;strokeWidth=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
@@ -902,7 +902,7 @@
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-189" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d2efdf;strokeColor=#2e7659;strokeWidth=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1411" y="2417" width="82" height="349" as="geometry" />
         </mxCell>
-        <mxCell id="Y6EXcarqBShoE0fwJQ1S-190" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d1e5f3;strokeColor=#27527c;strokeWidth=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Y6EXcarqBShoE0fwJQ1S-190" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d1e5f3;strokeColor=#27527c;strokeWidth=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="490" y="2330" width="110" height="530" as="geometry" />
         </mxCell>
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-191" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#caf0da;strokeColor=#40876f;strokeWidth=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
@@ -1040,7 +1040,7 @@
           <mxGeometry x="729" y="2490.25" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-284" value="DMA/&lt;div&gt;搬运&lt;/div&gt;&lt;div&gt;单元&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#05090d;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="523.75" y="2533.24" width="70" height="80" as="geometry" />
+          <mxGeometry x="510" y="2560" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-285" value="搬运" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#090d0d;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1422" y="2583" width="60" height="40" as="geometry" />
