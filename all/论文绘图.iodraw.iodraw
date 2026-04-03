@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="SzVVyhY_6RXfCbjq2SdH">
-    <mxGraphModel dx="2035" dy="1195" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="814" dy="478" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -894,7 +894,7 @@
           <mxGeometry x="967" y="2417" width="318" height="294" as="geometry" />
         </mxCell>
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-186" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c3deec;strokeColor=#559ec9;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="280" y="2330" width="142" height="565" as="geometry" />
+          <mxGeometry x="250" y="2330" width="142" height="565" as="geometry" />
         </mxCell>
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-188" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#62c4ae;strokeColor=#397f90;strokeWidth=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="634" y="2910" width="749" height="70" as="geometry" />
@@ -979,8 +979,8 @@
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-264" value="(Intermediate Festure Map)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#212125;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1225" y="2864.25" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y6EXcarqBShoE0fwJQ1S-265" value="片外存储" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#050909;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="312" y="2576.5" width="100" height="40" as="geometry" />
+        <mxCell id="Y6EXcarqBShoE0fwJQ1S-265" value="片外存储&lt;div&gt;DDR&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#050909;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2580" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-266" value="片外存储" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#09090d;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1600" y="2576.25" width="100" height="40" as="geometry" />
@@ -1228,8 +1228,8 @@
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-395" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAEDF5;strokeColor=#1A1A1A;strokeWidth=1;fontFamily=Times New Roman;fontSize=18;labelBorderColor=none;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="2650" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="Y6EXcarqBShoE0fwJQ1S-398" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="2100" width="100" height="60" as="geometry" />
+        <mxCell id="Y6EXcarqBShoE0fwJQ1S-398" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;arrowWidth=0.30370110405815465;arrowSize=0.32296305338541687;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
