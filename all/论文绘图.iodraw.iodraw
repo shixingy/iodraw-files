@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="SzVVyhY_6RXfCbjq2SdH">
-    <mxGraphModel dx="568" dy="333" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="1024" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -966,9 +966,6 @@
         </mxCell>
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-262" value="输出 Buffer" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#09110d;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1074" y="2768" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Y6EXcarqBShoE0fwJQ1S-263" value="计算密集型核心" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#151919;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1303" y="2414" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-264" value="(Intermediate Festure Map)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#212125;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1225" y="2864.25" width="220" height="40" as="geometry" />
