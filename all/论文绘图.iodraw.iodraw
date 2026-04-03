@@ -1039,8 +1039,8 @@
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-283" value="Buffer" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#090d0d;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="729" y="2490.25" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y6EXcarqBShoE0fwJQ1S-284" value="DMA/" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#05090d;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="523.75" y="2553.24" width="70" height="40" as="geometry" />
+        <mxCell id="Y6EXcarqBShoE0fwJQ1S-284" value="DMA/&lt;div&gt;搬运&lt;/div&gt;&lt;div&gt;单元&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#05090d;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="523.75" y="2533.24" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-285" value="搬运" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=18;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#090d0d;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1422" y="2583" width="60" height="40" as="geometry" />
