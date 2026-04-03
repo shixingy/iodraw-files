@@ -330,7 +330,7 @@
         <mxCell id="c5HaNCwf08vqqvqho3q7-101" value="Warp 0 (线程束)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=22;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#091501;fontFamily=Meiryo;" parent="1" vertex="1">
           <mxGeometry x="632" y="1113.25" width="149" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="c5HaNCwf08vqqvqho3q7-102" value="&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Times New Roman&quot;&gt;(Host-to-Device)&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=23;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#0d0d0d;fontFamily=Meiryo;" parent="1" vertex="1">
+        <mxCell id="c5HaNCwf08vqqvqho3q7-102" value="&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Times New Roman&quot;&gt;(Host-to-Device)&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=23;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#0d0d0d;fontFamily=Meiryo;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="349.75" y="1011.99" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-103" value="Block 内线程共享" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=21;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#11110d;fontFamily=Arial Narrow;" parent="1" vertex="1">
