@@ -793,8 +793,8 @@
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-161" value="Block (0,1)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=25;align=center;verticalAlign=middle;overflow=visible;fontColor=#2d1101;fontFamily=Times New Roman;" vertex="1" parent="Y6EXcarqBShoE0fwJQ1S-154">
           <mxGeometry x="260" y="1" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y6EXcarqBShoE0fwJQ1S-162" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1130" width="60" height="30" as="geometry" />
+        <mxCell id="Y6EXcarqBShoE0fwJQ1S-162" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;...&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
