@@ -312,8 +312,8 @@
         <mxCell id="c5HaNCwf08vqqvqho3q7-95" value="(Host Memory /&lt;div&gt;&amp;nbsp;DRAM)&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=24;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#091525;fontFamily=Meiryo;" parent="1" vertex="1">
           <mxGeometry x="80" y="1391" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="c5HaNCwf08vqqvqho3q7-96" value="(Host-to-Device Data Copy)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=22;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#111111;fontFamily=SimHei;" parent="1" vertex="1">
-          <mxGeometry x="326.75" y="1383.5" width="235" height="23" as="geometry" />
+        <mxCell id="c5HaNCwf08vqqvqho3q7-96" value="&lt;font face=&quot;Times New Roman&quot;&gt;(Host-to-Device Data Copy)&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=22;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#111111;fontFamily=SimHei;" parent="1" vertex="1">
+          <mxGeometry x="309.75" y="1375.5" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-97" value="Host (CPU)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=33;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#050505;fontFamily=Arial Narrow;" parent="1" vertex="1">
           <mxGeometry x="109" y="886" width="152" height="34" as="geometry" />
