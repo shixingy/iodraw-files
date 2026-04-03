@@ -1231,8 +1231,8 @@
         <mxCell id="Y6EXcarqBShoE0fwJQ1S-398" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;arrowWidth=0.30370110405815465;arrowSize=0.32296305338541687;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="390" y="2560" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y6EXcarqBShoE0fwJQ1S-399" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="3060" width="100" height="30" as="geometry" />
+        <mxCell id="Y6EXcarqBShoE0fwJQ1S-399" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.467489963107649;arrowSize=0.1861730278862848;fillColor=#f49284;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3050" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
