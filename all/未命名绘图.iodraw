@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="SzVVyhY_6RXfCbjq2SdH">
-    <mxGraphModel dx="407" dy="239" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="717" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1266,14 +1266,11 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="4705" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="4600" as="sourcePoint" />
             <mxPoint x="1010" y="4705" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1010" y="4650" />
-              <mxPoint x="1010" y="4650" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
