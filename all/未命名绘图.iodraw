@@ -1317,13 +1317,16 @@
           <mxGeometry x="690" y="4850" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-45" value="指令分发" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="4850" width="60" height="90" as="geometry" />
+          <mxGeometry x="780" y="4840" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-47" value="矩阵运算队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="4850" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-49" value="矩阵运算队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="4890" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-50" value="矩阵运算队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="4930" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
