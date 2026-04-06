@@ -1281,10 +1281,10 @@
           <mxGeometry x="850" y="4710" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-30" value="专用寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="4690" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="4710" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-31" value="通用寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="4790" width="80" height="40" as="geometry" />
+          <mxGeometry x="1060" y="4710" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
