@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="4420" width="1310" height="710" as="geometry" />
+        </mxCell>
         <mxCell id="c5HaNCwf08vqqvqho3q7-1" value="graph optmizer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="60" y="385" width="530" height="75" as="geometry" />
         </mxCell>
@@ -1277,20 +1280,14 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-23" value="向量计算单元" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="4640" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-28" value="&amp;nbsp; &amp;nbsp; 标量计算单元" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="4710" width="210" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-30" value="专用寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="4710" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="190" y="4420" width="1310" height="710" as="geometry" />
-        </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=none;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-32">
-          <mxGeometry width="1310" height="710" as="geometry" />
-        </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-28" value="&amp;nbsp; &amp;nbsp; 标量计算单元" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-32">
-          <mxGeometry x="660" y="290" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-31" value="通用寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-32">
-          <mxGeometry x="810" y="290" width="80" height="40" as="geometry" />
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-31" value="通用寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="4710" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
