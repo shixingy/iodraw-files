@@ -1298,8 +1298,8 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-39" value="系统&lt;div&gt;配置&lt;/div&gt;&lt;div&gt;模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="4860" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-40" value="系统&lt;div&gt;配置&lt;/div&gt;&lt;div&gt;模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="4870" width="90" height="70" as="geometry" />
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-40" value="总线&lt;div&gt;接口&lt;/div&gt;&lt;div&gt;单元&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="4860" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
