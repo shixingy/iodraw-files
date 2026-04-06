@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="SzVVyhY_6RXfCbjq2SdH">
-    <mxGraphModel dx="1221" dy="717" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="844" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1215,7 +1215,7 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-8" target="yF7CrVxIjV4FEbSZqMZe-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;L 1缓冲区&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;L 1缓冲区&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=Times New Roman;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="4470" width="80" height="300" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-16" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-11" target="yF7CrVxIjV4FEbSZqMZe-15">
@@ -1226,7 +1226,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;L0 A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;L0 A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="510" y="4490" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-18" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-12" target="yF7CrVxIjV4FEbSZqMZe-15">
@@ -1237,7 +1237,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;L0 B&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;L0 B&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="510" y="4550" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-20" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-15" target="yF7CrVxIjV4FEbSZqMZe-19">
@@ -1260,7 +1260,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;L0 C&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;L0 C&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="920" y="4490" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-23" target="yF7CrVxIjV4FEbSZqMZe-21">
@@ -1286,7 +1286,7 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-31" value="通用寄存器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-34">
           <mxGeometry x="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-37" value="输出缓存区" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-37" value="输出缓存区" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="4637" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-38" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=1.011;exitY=0.756;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-6" target="yF7CrVxIjV4FEbSZqMZe-37">
