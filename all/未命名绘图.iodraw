@@ -1266,7 +1266,7 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="4705" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="4600" as="sourcePoint" />
             <mxPoint x="1010" y="4705" as="targetPoint" />
