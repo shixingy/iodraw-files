@@ -1304,8 +1304,14 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-40" value="总线&lt;div&gt;接口&lt;/div&gt;&lt;div&gt;单元&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="4860" width="90" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-44" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-41" target="yF7CrVxIjV4FEbSZqMZe-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-41" value="指令缓存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="4865" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-43" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="4865" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
