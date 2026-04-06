@@ -1322,7 +1322,7 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-47" value="矩阵运算队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="4841" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-49" value="矩阵运算队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-49" value="向量运算队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="4881" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-50" value="矩阵运算队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
