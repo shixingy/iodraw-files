@@ -1295,7 +1295,7 @@
             <mxPoint x="519.52" y="4694.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-39" value="系统&lt;div&gt;配置&lt;/div&gt;&lt;div&gt;模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="4860" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
