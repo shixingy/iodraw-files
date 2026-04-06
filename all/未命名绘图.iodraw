@@ -1263,15 +1263,16 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-21" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;L0 C&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="4490" width="120" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-23" target="yF7CrVxIjV4FEbSZqMZe-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="4640" />
+              <mxPoint x="1010" y="4640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="4705" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="4600" as="sourcePoint" />
-            <mxPoint x="1010" y="4705" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
