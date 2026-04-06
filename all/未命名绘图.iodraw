@@ -1277,7 +1277,7 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-34" value="" style="group;fontFamily=Times New Roman;fontSize=14;rounded=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="840" y="4710" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-28" value="&amp;nbsp; &amp;nbsp; 标量计算单元" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-34">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-28" value="&amp;nbsp; &amp;nbsp; 标量计算单元" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-34">
           <mxGeometry x="10" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-30" value="专用寄存器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-34">
