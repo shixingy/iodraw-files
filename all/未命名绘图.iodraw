@@ -1349,7 +1349,7 @@
             <mxPoint x="870" y="4895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-58" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-58" value="事件&lt;div&gt;同步&lt;span style=&quot;background-color: initial;&quot;&gt;模块&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="4980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
