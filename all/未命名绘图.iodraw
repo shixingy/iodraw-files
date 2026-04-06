@@ -1313,7 +1313,7 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-41" value="指令缓存" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="513" y="4822" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-46" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-43" target="yF7CrVxIjV4FEbSZqMZe-45">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-46" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#1A1A1A;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-43" target="yF7CrVxIjV4FEbSZqMZe-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-43" value="标量&lt;div style=&quot;font-size: 14px;&quot;&gt;指令&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;处理&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;队列&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -1331,19 +1331,19 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-50" value="标量运算队列" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="870" y="4878" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-53" value="" style="endArrow=classic;html=1;rounded=0;curved=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-53" value="" style="endArrow=classic;html=1;rounded=0;curved=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#1A1A1A;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="4813" as="sourcePoint" />
             <mxPoint x="870" y="4813" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-54" value="" style="endArrow=classic;html=1;rounded=0;curved=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-54" value="" style="endArrow=classic;html=1;rounded=0;curved=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#1A1A1A;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="4854" as="sourcePoint" />
             <mxPoint x="870" y="4854" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-55" value="" style="endArrow=classic;html=1;rounded=0;curved=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-55" value="" style="endArrow=classic;html=1;rounded=0;curved=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#1A1A1A;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="4895" as="sourcePoint" />
             <mxPoint x="870" y="4895" as="targetPoint" />
