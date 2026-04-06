@@ -1296,7 +1296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-39" value="系统&lt;div&gt;配置&lt;/div&gt;&lt;div&gt;模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="4860" width="90" height="70" as="geometry" />
+          <mxGeometry x="240" y="4817" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-40" target="yF7CrVxIjV4FEbSZqMZe-41">
           <mxGeometry relative="1" as="geometry" />
@@ -1305,48 +1305,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-40" value="总线&lt;div&gt;接口&lt;/div&gt;&lt;div&gt;单元&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="4860" width="90" height="70" as="geometry" />
+          <mxGeometry x="370" y="4817" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-44" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-41" target="yF7CrVxIjV4FEbSZqMZe-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-41" value="指令缓存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="4865" width="120" height="60" as="geometry" />
+          <mxGeometry x="525" y="4822" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-46" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-43" target="yF7CrVxIjV4FEbSZqMZe-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-43" value="标量&lt;div&gt;指令&lt;/div&gt;&lt;div&gt;处理&lt;/div&gt;&lt;div&gt;队列&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="4850" width="60" height="90" as="geometry" />
+          <mxGeometry x="690" y="4807" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-45" value="指令分发" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="4840" width="60" height="110" as="geometry" />
+          <mxGeometry x="780" y="4797" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-47" value="矩阵运算队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="4841" width="90" height="30" as="geometry" />
+          <mxGeometry x="870" y="4798" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-49" value="向量运算队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="4881" width="90" height="30" as="geometry" />
+          <mxGeometry x="870" y="4838" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-50" value="标量运算队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="4921" width="90" height="30" as="geometry" />
+          <mxGeometry x="870" y="4878" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-53" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="4856" as="sourcePoint" />
-            <mxPoint x="870" y="4856" as="targetPoint" />
+            <mxPoint x="840" y="4813" as="sourcePoint" />
+            <mxPoint x="870" y="4813" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-54" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="4897" as="sourcePoint" />
-            <mxPoint x="870" y="4897" as="targetPoint" />
+            <mxPoint x="840" y="4854" as="sourcePoint" />
+            <mxPoint x="870" y="4854" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-55" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="4938" as="sourcePoint" />
-            <mxPoint x="870" y="4938" as="targetPoint" />
+            <mxPoint x="840" y="4895" as="sourcePoint" />
+            <mxPoint x="870" y="4895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
