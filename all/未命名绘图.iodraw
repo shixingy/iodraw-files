@@ -1286,14 +1286,8 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-31" value="通用寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-34">
           <mxGeometry x="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-35" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.536;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="955" y="4680" as="sourcePoint" />
-            <mxPoint x="957.56" y="4723.88" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="955" y="4724" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-35" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.536;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-23" target="yF7CrVxIjV4FEbSZqMZe-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
