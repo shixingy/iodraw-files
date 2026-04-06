@@ -1316,14 +1316,11 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-43" value="标量&lt;div&gt;指令&lt;/div&gt;&lt;div&gt;处理&lt;/div&gt;&lt;div&gt;队列&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="4850" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-48" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-45" target="yF7CrVxIjV4FEbSZqMZe-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-45" value="指令分发" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="4850" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-47" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="4865" width="120" height="60" as="geometry" />
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-47" value="矩阵运算队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="4865" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
