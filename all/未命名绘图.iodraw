@@ -1277,13 +1277,13 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-34" value="" style="group;fontFamily=Times New Roman;fontSize=14;rounded=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="840" y="4710" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-28" value="&amp;nbsp; &amp;nbsp; 标量计算单元" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-34">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-28" value="&amp;nbsp; &amp;nbsp; 标量计算单元" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-34">
           <mxGeometry x="10" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-30" value="专用寄存器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-34">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-30" value="专用寄存器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-34">
           <mxGeometry width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-31" value="通用寄存器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-34">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-31" value="通用寄存器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="yF7CrVxIjV4FEbSZqMZe-34">
           <mxGeometry x="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-37" value="输出缓存区" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
@@ -1348,6 +1348,9 @@
             <mxPoint x="840" y="4895" as="sourcePoint" />
             <mxPoint x="870" y="4895" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-58" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="4980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
