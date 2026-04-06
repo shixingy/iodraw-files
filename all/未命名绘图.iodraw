@@ -1201,6 +1201,12 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-4" value="L1 缓冲区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;horizontal=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="280" y="4551" width="60" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="4510" width="80" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-7" value="L1 缓冲区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;horizontal=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="290" y="4561" width="60" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
