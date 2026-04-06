@@ -1301,7 +1301,7 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-40" target="yF7CrVxIjV4FEbSZqMZe-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-56" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-40" target="yF7CrVxIjV4FEbSZqMZe-6">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-56" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-40" target="yF7CrVxIjV4FEbSZqMZe-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-40" value="总线&lt;div&gt;接口&lt;/div&gt;&lt;div&gt;单元&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1347,12 +1347,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="4938" as="sourcePoint" />
             <mxPoint x="870" y="4938" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-57" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="4810" as="sourcePoint" />
-            <mxPoint x="840" y="4760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
