@@ -1310,7 +1310,7 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-44" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-41" target="yF7CrVxIjV4FEbSZqMZe-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-41" value="指令缓存" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-41" value="指令缓存" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="513" y="4822" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-46" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-43" target="yF7CrVxIjV4FEbSZqMZe-45">
