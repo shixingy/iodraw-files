@@ -1212,6 +1212,9 @@
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-8" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;L 1缓冲区&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="240" y="4470" width="80" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="4770" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
