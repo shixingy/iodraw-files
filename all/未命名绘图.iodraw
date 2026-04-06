@@ -1295,7 +1295,7 @@
             <mxPoint x="519.52" y="4694.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yF7CrVxIjV4FEbSZqMZe-39" value="系统&lt;div style=&quot;font-size: 14px;&quot;&gt;控制&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="yF7CrVxIjV4FEbSZqMZe-39" value="系统&lt;div style=&quot;font-size: 14px;&quot;&gt;控制&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#dcf5db;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="4817" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yF7CrVxIjV4FEbSZqMZe-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="yF7CrVxIjV4FEbSZqMZe-40" target="yF7CrVxIjV4FEbSZqMZe-41">
