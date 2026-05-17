@@ -1096,7 +1096,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="or3C4AJTfXXegqOsQg5c-214" value="" style="curved=1;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;" parent="1" target="or3C4AJTfXXegqOsQg5c-212" edge="1">
+        <mxCell id="or3C4AJTfXXegqOsQg5c-214" value="" style="curved=0;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;rounded=0;" parent="1" target="or3C4AJTfXXegqOsQg5c-212" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="1029" as="sourcePoint" />
             <mxPoint x="630" y="1108" as="targetPoint" />
